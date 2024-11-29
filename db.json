@@ -1,0 +1,84 @@
+{
+  "videos": [
+    {
+      "id":"1hhe5",
+      "title": "Fireball Battle = Bedwars + Skywars + FireballFight",
+      "description": "Играл на AgeraPvP и встретил режим Fireball Battle там где Bedrwas, Skywars и FireballFight в одном режиме",
+      "url": "https://www.youtube.com/embed/lwKr6700VnY?si=5atAmNbAARPhAWuv"
+    },
+    {
+      "id":"234d",
+      "title": "The Bridge duel COMEBACK",
+      "description": "Комбекнул игрока на Bridge дуель с 3 - 1 до 4 - 5 и выграл, Он думал что я нуб в игре :)",
+      "url": "https://www.youtube.com/embed/3ZwRrEkDqTc?si=JNBrjT31EZKopF7g"
+    },
+    {
+      "id":"35fd",
+      "title": "Играю с высоким пингом - 400 ms",
+      "description": "Поиграл в Bridge дуель у бабушки на wi-fi, тянуло около 400 ms, но я выграл противника",
+      "url": "https://www.youtube.com/embed/1dN0LjDpzJg?si=4pgAfeLAW579tUhk"
+    }
+  ],
+  "servers": [
+    {
+      "id": "s675",
+      "name": "Revage",
+      "ip": "MC.REVAGE.NET",
+      "serverSite": "https://revage.net/"
+    }
+  ],
+  "bedwars-textures": [
+    {
+      "id": "s67dfr",
+      "name": "Pink Gorilla",
+      "logo": "https://fv20.files.fm/down.php?i=zbfx9qg3fv&view&n=pack-pinkGorilla.png",
+      "url": "https://t.me/sitrus_minecraft/550"
+    },
+    {
+      "id": "asdt7",
+      "name": "Mirage",
+      "logo": "https://fv20.files.fm/down.php?i=gnj4cen8e3&view&n=pack-mirage.png",
+      "url": "https://t.me/sitrus_minecraft/509"
+    }
+  ],
+  "pvp-textures": [
+    {
+      "id": "sdf32",
+      "name": "Red pack",
+      "logo": "https://fv20.files.fm/down.php?i=ztp555su67&view&n=pack_redPack.png",
+      "url": "https://t.me/sitrus_minecraft/633"
+    }
+  ],
+  "survial-textures": [
+    {
+        "id": "ec5wr",
+        "name": "Red pack",
+        "logo": "https://fv20.files.fm/down.php?i=ed493dy3kf&view&n=pack_freshAnimations.png",
+        "url": "https://t.me/sitrus_minecraft/633"
+    }
+  ],
+  "fantastick-textures": [
+    {
+      "id": "1wwr2c2",
+      "name": "Fresh Animations",
+      "logo": "https://fv20.files.fm/down.php?i=ntt8ww9xdw&view&n=pack-gunBowOverlayV2.png",
+      "url": "https://t.me/sitrus_minecraft/636"
+    }
+  ],
+  "launchers": [
+    {
+      "id": "sdf32",
+      "name": "TLauncher",
+      "downloadLink": "https://tlauncher.org/",
+      "logo": "https://tlauncher.org/favicon.ico"
+    }
+],
+"clients": [
+      {
+        "id": "sdf32",
+        "name": "Silent Client",
+        "downloadLink": "https://silentclient.net/",
+        "logo": "https://silentclient.net/favicon.ico"
+      }
+  ]
+}
